@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./zweiredenankais00bhgoog/zweiredenankais00bhgoog_0012.png"; bbox 0 0 2938 4988; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 507 4292 1093 4368">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 507 4292 1093 4368">
+     <span class='ocr_line' id='line_1_1' title="bbox 507 4292 1093 4368; baseline -0.005 -23"><span class='ocrx_word' id='word_1_1' title='bbox 507 4302 615 4346; x_wconf 69' lang='lat' dir='ltr'><strong>mmet&lt;</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 632 4301 694 4344; x_wconf 66' lang='lat' dir='ltr'><strong>von</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 711 4301 740 4343; x_wconf 84' lang='grc' dir='ltr'><strong>Η.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 751 4302 859 4344; x_wconf 72' lang='lat' dir='ltr'>LAUPP</span> <span class='ocrx_word' id='word_1_5' title='bbox 876 4301 908 4344; x_wconf 75' lang='lat' dir='ltr'><strong>m</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 924 4292 1093 4368; x_wconf 65' lang='lat' dir='ltr'><strong>Tflmuomn.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1474 4988">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1474 4988">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1474 4988; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1474 4988; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
